@@ -1,7 +1,7 @@
 # ConfPred
 To run this repository, make sure you have installed sklearn and xgboost python library using pip. One can choose it do it a virtual environ ment like we did.
 
-1) source /venv/bin/activate  (This command will bring you to virtual environment)
+1) source venv/bin/activate  (This command will bring you to virtual environment)
 2) python3 data_processing.py
 3) python3 final2_models.py
 
